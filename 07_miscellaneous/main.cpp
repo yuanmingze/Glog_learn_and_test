@@ -1,7 +1,4 @@
-﻿#include <glog/logging.h>
-#include <glog/raw_logging.h>
-
-#include "logger.hpp"
+﻿#include "logger.hpp"
 
 /*!
 *  The signal handler can be installed by google::InstallFailureSignalHandler().
